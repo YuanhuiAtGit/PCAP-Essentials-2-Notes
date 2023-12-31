@@ -1,6 +1,7 @@
 # PCAP-Essentials-2-Notes
 * There will be codes and simple markdowns related to the official free course on PCAP Essentials 2.
 * Strengthen foundational understanding through PCAP exam review.
+* Feel free to connect if you'd like to discuss more CS-related issues with me. Let's learn and grow together!
 
 ## Notes will include
 ### 1.Modules, Packages and PIP
